@@ -43,8 +43,8 @@ function NewProduct() {
     function showWidget() {
         const widget = window.cloudinary.createUploadWidget(
             {
-                cloudName: "dk0urkgwm",
-                uploadPreset: "ybcfr8nf",
+                cloudName: process.env.cloudname,
+                uploadPreset: process.env.preset,
             },
             (error, result) => {
                 if (!error && result.event === "success") {
