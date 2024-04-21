@@ -62,30 +62,30 @@ To run this project locally, follow these steps:
 ## Tech Stack
 
 **Frontend:**
-React.js
-Redux
+React.js,
+Redux,
 Cloudinary
 
-
 **Backend:**
-Node.js
-Express.js
-MongoDB
-Cloudinary (for image management)
-Stripe (for payment processing)
-Features
+Node.js,
+Express.js,
+MongoDB,
+Cloudinary (for image management),
+Stripe (for payment processing),
+
+# Features
 
 ## User Panel:
-User authentication
-Product browsing
-Product details
-Shopping cart
+User authentication,
+Product browsing,
+Product details,
+Shopping cart,
 Checkout and payment processing
 
 ## Admin Panel:
-Product management (add, edit, delete)
-User management
-Order management
+Product management (add, edit, delete),
+User management,
+Order management,
 Dashboard for sales analytics
 
 
